@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2086b7"],{a55b:function(n,t,o){"use strict";o.r(t);var u=o("7a23"),e=Object(u["f"])(" 登入頁面 ");function c(n,t,o,c,i,r){return Object(u["s"])(),Object(u["d"])(u["a"],null,[e,Object(u["g"])("button",{type:"button",onClick:t[1]||(t[1]=function(){return r.login&&r.login.apply(r,arguments)})}," 登入 ")],64)}var i={methods:{login:function(){this.$router.push("/admin/products")}}};i.render=c;t["default"]=i}}]);
+//# sourceMappingURL=chunk-2d2086b7.60be4787.js.map
